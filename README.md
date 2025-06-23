@@ -35,7 +35,7 @@
 7. Complete the TODOs in '__main__.py'
 
 ##Solution Output:
-
+'''
 1 2 3 4 
 
 2 4 6 8 
@@ -83,3 +83,4 @@
 3 6
 
 4
+'''

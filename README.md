@@ -35,4 +35,5 @@
 7. Complete the TODOs in '__main__.py'
 
 ##Solution Output:
+
 ![Solution](nested-loop-exercise-solution.png)

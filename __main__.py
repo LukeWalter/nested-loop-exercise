@@ -32,7 +32,14 @@ print("")
 #     9 2
 #       6
 
-
+for i in range(4):
+    row = ""
+    for j in range(4):
+        if j >= i:
+            row += str(matrix[i, j]) + " "
+        else:
+            row += "  "
+    print(row)
 
 # END TODO 4.1
 print("")
@@ -43,7 +50,14 @@ print("")
 # 3 6 9  
 # 4 8 2 6
 
-
+for i in range(4):
+    row = ""
+    for j in range(4):
+        if j <= i:
+            row += str(matrix[i, j]) + " "
+        else:
+            row += "  "
+    print(row)
 
 # END TODO 4.2
 print("")
@@ -54,7 +68,14 @@ print("")
 #   6 9 2
 # 4 8 2 6
 
-
+for i in range(4):
+    row = ""
+    for j in range(4):
+        if j >= 3 - i:
+            row += str(matrix[i, j]) + " "
+        else:
+            row += "  "
+    print(row)
 
 # END TODO 4.3
 print("")
@@ -65,6 +86,13 @@ print("")
 # 3 6    
 # 4      
 
-
+for i in range(4):
+    row = ""
+    for j in range(4):
+        if j <= 3 - i:
+            row += str(matrix[i, j]) + " "
+        else:
+            row += "  "
+    print(row)
 
 # END TODO 4.4

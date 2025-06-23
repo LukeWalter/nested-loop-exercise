@@ -1,6 +1,6 @@
 # nested-loop-exercise
 
-##Directions:
+## Directions:
 
 1. Clone this repository through GitHub Desktop
    
@@ -34,6 +34,6 @@
 
 7. Complete the TODOs in '__main__.py'
 
-##Solution Output:
+## Solution Output:
 
 ![Solution](nested-loop-exercise-solution.png)

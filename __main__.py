@@ -26,7 +26,7 @@ print("")
 
 # NOTE: Your solution should use the elements from the matrix, no hard-coding values!
 
-# TODO 1.1: Create a nested for-loop that produces the following output:
+# TODO 4.1: Create a nested for-loop that produces the following output:
 # 1 2 3 4
 #   4 6 8
 #     9 2
@@ -34,10 +34,10 @@ print("")
 
 
 
-# END TODO 1.1
+# END TODO 4.1
 print("")
 
-# TODO 1.2: Create a nested for-loop that produces the following output:
+# TODO 4.2: Create a nested for-loop that produces the following output:
 # 1      
 # 2 4    
 # 3 6 9  
@@ -45,10 +45,10 @@ print("")
 
 
 
-# END TODO 1.2
+# END TODO 4.2
 print("")
 
-# TODO 1.3: Create a nested for-loop that produces the following output:
+# TODO 4.3: Create a nested for-loop that produces the following output:
 #       4
 #     6 8
 #   6 9 2
@@ -56,10 +56,10 @@ print("")
 
 
 
-# END TODO 1.3
+# END TODO 4.3
 print("")
 
-# TODO 1.4: Create a nested for-loop that produces the following output:
+# TODO 4.4: Create a nested for-loop that produces the following output:
 # 1 2 3 4
 # 2 4 6  
 # 3 6    
@@ -67,4 +67,4 @@ print("")
 
 
 
-# END TODO 1.4
+# END TODO 4.4

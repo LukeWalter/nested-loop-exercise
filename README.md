@@ -1,47 +1,38 @@
 # nested-loop-exercise
 
 ##Directions:
+
 1. Clone this repository through GitHub Desktop
-    1.1. Click "Current repository" in the top left corner of the Github Desktop application
-    1.2. Click "Add" > "Clone repository..."
-    1.3. Choose URL
-    1.4. Enter the following URL: https://github.com/LukeWalter/nested-loop-exercise
-    1.5. Choose a local path to store the cloned repository
-    1.6. Press "Clone"
    
-2. Open the 'nested-loop-exercise' folder in Visual Studio Code
+    1.1. Click "Current repository" in the top left corner of the Github Desktop application
+   
+    1.2. Click "Add" > "Clone repository..."
+   
+    1.3. Choose URL
+   
+    1.4. Enter the following URL: https://github.com/LukeWalter/nested-loop-exercise
+   
+    1.5. Choose a local path to store the cloned repository
+   
+    1.6. Press "Clone"
+
+   
+   
+3. Open the 'nested-loop-exercise' folder in Visual Studio Code
+   
     2.1. Go to '__main__.py'
 
-3. Download the TODO Tree VS Code extension
+5. Download the TODO Tree VS Code extension
+   
     3.1. Press Cmd-Shift-X to open the Extensions window
+   
     3.2. Search TODO Tree in the search bar
+   
     3.3. Click "Install"
 
-4. Complete the TODOs in '__main__.py'
+   
+
+7. Complete the TODOs in '__main__.py'
 
 ##Solution Output:
-
-1 2 3 4 
-2 4 6 8 
-3 6 9 2
-4 8 2 6
-
-1 2 3 4
-  4 6 8
-    9 2
-      6
-
-1
-2 4
-3 6 9
-4 8 2 6
-
-      4
-    6 8
-  6 9 2
-4 8 2 6
-
-1 2 3 4
-2 4 6
-3 6
-4
+![Solution](nested-loop-exercise-solution.png)
